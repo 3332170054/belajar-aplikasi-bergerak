@@ -1,6 +1,6 @@
 <?php
 $token = "1046660311:AAHFQXoEsQpgGY6_prKqNuaXGeovpFLeTsQ"; //Ganti dengan Token yang diperoleh dari BotFather
-$usernamebot="@telkom1234_bot"; //nama bot yang diperoleh dari BotFather
+$usernamebot="@telkom123_bot"; //nama bot yang diperoleh dari BotFather
 define('BOT_TOKEN', $token); 
 
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
